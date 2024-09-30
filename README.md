@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## A little about me :grin:
+I was born in New York City but I grew up in Bogota, Colombia. I lived there until I was 19 years old then moved to the U.S. to go college. I lived in Texas for almost 14 years before moving back to Colombia, it was there where I decided to go back to school and sharpen my design skills. During my time in Texas I worked as a videographer and video editor, I also did some motion graphics but I never had any formal training in that specific subject. Last year I decided to move to Calgary and study at SAIT, it seemed like the best option and so far it has been a great desition. I do not have much experience with code and even though I feel a bit overwhelmed, I'm also willing to learn and hopefully be able to add it to my *"skills"* page on my resume. 
