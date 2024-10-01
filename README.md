@@ -36,9 +36,8 @@ For 11 years I worked on a small production company in Houston, Texas where I wa
   - Ted Lasso 
 
  :musical_note: _Listening to music_
- * My favorite genre of music has always been Punk Rock, but with time I've learned to appreciate other genres. The world is full of amazing artists and the idea of missing out on some incredible music just because it doesnt match my preferred genre seems pretty depressing to me.
- * I also enjoy live music, a good concert is always a good plan even if its just a small performance at a coffee shop. Live music hits different.
- * Won't list my favorite artist, there's not enough space on the internet. :shrug:
+ * I particulary enjoy live music, a good concert is always a good plan even if its just a small performance at a coffee shop. Live music hits different.
+ * Won't list my favorite artist, there's simply not enough space on the internet. :sweat_smile: 
 
 ## You can reach me at :mailbox: 
  * Alexander.HernandezTamayo@edu.sait.ca 
