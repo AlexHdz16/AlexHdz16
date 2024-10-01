@@ -1,4 +1,4 @@
-# Hello, world! 👋 My name is Alex.
+# Hello, world! 👋 My name is Alexander Hernandez.
 
 <!--
 **AlexHdz16/AlexHdz16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## A little about me :thinking:
-I was born in New York City but I grew up in Bogota, Colombia. I lived there until I was 19 years old then moved to the U.S. to go college. I lived in Texas for almost 14 years before moving back to Colombia, it was there where I decided to go back to school and sharpen my design skills. During my time in Texas I worked as a videographer and video editor, I also did some motion graphics but I never had any formal training in that specific subject. Last year I decided to move to Calgary and study at SAIT, it seemed like the best option and so far it has been a great desition. I do not have much experience with code and even though I feel a bit overwhelmed, I'm also willing to learn and hopefully be able to add it to my *"skills"* page on my resume. 
+I was born in New York City but I grew up in Bogota, Colombia. I lived there until I was 19 years old then moved to the U.S. to go college. I lived in Texas for almost 14 years before moving back to Colombia, it was there where I decided to go back to school and sharpen my design skills. During my time in Texas I worked as a videographer and video editor, I also did some motion graphics but I never had any formal training in that specific subject. Last year I decided to move to Calgary and study at SAIT, it seemed like the best option and so far it has been a great decision. I do not have much experience with code and even though I feel a bit overwhelmed, I'm also willing to learn and hopefully be able to add it to my *"skills"* page on my resume. 
 
-## My Profesional background :nerd_face: 
-For 11 years I worked on a small production company in Houston, Texas where I was hired as a videographer, later moved on to video editor specializing in motion graphics. During covid I had to pivot to freelancing work where I was able to work with a couple of big comapnies like ***Igloo***. Corporate work was one of my main sources of income during that period of time. I've also worked in music videos, short films and small independent documentaries. I work primeraly with Adobe CC software, mainly _Premiere Pro_ and _After Effects_. 
+## My Professional background :nerd_face: 
+For 11 years I worked on a small production company in Houston, Texas where I was hired as a videographer, later moved on to video editor specializing in motion graphics. During covid I had to pivot to freelancing work where I was able to work with a couple of big companies like ***Igloo***. Corporate work was one of my main sources of income during that period of time. I've also worked in music videos, short films and small independent documentaries. I work primarily with Adobe CC software, specifically _Premiere Pro_ and _After Effects_. 
 
 ## What I like to do for fun :grin: 
+:camera_flash: _Photography_
+* Even though is not my area of expertise, I fell in love with photography. It's similar enough to video that it helps me improve my cinematography skills, while at the same time different enough that it doesn't feel like I'm still at work.
+  
 :movie_camera: _Watch movies/TV shows_
 * I love watching movies, since my background is video production I've always been a movie dork. My favorite movies are:
   - Back to the future (_the whole trilogy_)
