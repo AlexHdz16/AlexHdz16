@@ -1,4 +1,4 @@
-# Hello, world! 👋 My name is Alexander Hernandez ##_but you can call me ***Alex***_ 
+# Hello, world! 👋 My name is Alexander Hernandez _but you can call me ***Alex***_ 
 
 <!--
 **AlexHdz16/AlexHdz16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ For 11 years I worked on a small production company in Houston, Texas where I wa
 ## Fun Fact
 I've never experienced a proper winter before since there's no stations in Colombia. 
 
-## What I like to do for fun :grin: 
+## What I like to do on my free time :grin: 
 :camera_flash: _Photography_ 
 * Even though it's not my area of expertise, I fell in love with photography. It's similar enough to video that it helps me improve my cinematography skills, while at the same time different enough that it doesn't feel like I'm still at work.
   
