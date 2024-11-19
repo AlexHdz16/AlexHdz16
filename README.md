@@ -21,7 +21,7 @@ I was born in New York City but I grew up in Bogota, Colombia. At 19 years old I
 For 11 years I worked on a small production company in Houston, Texas where I was hired as a videographer, later moved on to video editing specializing in motion graphics. At the same I was lucky enough to be able to do some freelancing where I worked with a couple of big companies like ***Igloo***. Corporate work was one of my main sources of income during that period of time. I've also worked in music videos, short films and small independent documentaries. I work primarily with Adobe CC software, specifically _Premiere Pro_ and _After Effects_. I'm fluent en both English and Spanish and have done translation projects such as transcripts, subtitles/Closed Captions, and article translations. 
 
 ## Fun Fact
-I've never experienced a proper winter before since there's no stations in Colombia. 
+I've never experienced a proper winter before since there's no seasons in Colombia. 
 
 ## What I like to do on my free time :grin: 
 :camera_flash: _Photography_ 
